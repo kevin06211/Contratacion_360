@@ -37,16 +37,11 @@
 </table>
 
 
-**Índice**
-
-[TOC]
-
-
 **Enlaces principales**
 
-Aplicativo: [https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9](https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9)
+Aplicativo: [https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9](https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9){:target="_blank"}
 
-Video presentación: [https://youtu.be/iczRbtpg74s](https://youtu.be/iczRbtpg74s)
+Video presentación: [https://youtu.be/iczRbtpg74s](https://youtu.be/iczRbtpg74s){:target="_blank"}
 
 Repositorio: [https://github.com/alfarodaniel/Contratacion_360](https://github.com/alfarodaniel/Contratacion_360)
 
@@ -120,7 +115,7 @@ Para la adopción y despliegue de la herramienta, es necesario implementar una e
 
 ## 7 Tabla de requerimientos - lista de chequeo
 
-Ver “Tabla de requerimientos - Etapa inicial - Prototipo” en el documento “[Tabla de requerimientos](https://github.com/alfarodaniel/Contratacion_360/blob/main/Tabla_de_requerimientos.pdf)” en el repositorio.
+Ver “Tabla de requerimientos - Etapa inicial - Prototipo” en el documento “[Tabla de requerimientos](Tabla_de_requerimientos.pdf)” en el repositorio.
 
 
 ## 8 Mejoras
@@ -140,33 +135,33 @@ A partir del prototipo realizado se proponen las siguientes mejoras:
 
 En el repositorio de GitHub se encuentran varios archivos de datos utilizados en el proyecto:
 
-* [Manual_de_usuario.pdf](https://github.com/alfarodaniel/Contratacion_360/blob/main/Tabla_de_requerimientos.pdf): Manual de usuario y de mantenimiento.
-* [Presentacion.pd](https://github.com/alfarodaniel/Contratacion_360/blob/main/Presentacion.pdf)f: Presentación final del prototipo.
-* [Prototipo_fachada.pdf](https://github.com/alfarodaniel/Contratacion_360/blob/main/Prototipo_fachada.pdf): Propuesta inicial el prototipo.
-* [Reporte de selección y parametrización de modelos.pdf](https://github.com/alfarodaniel/Contratacion_360/blob/main/Reporte_de_seleccion_y_parametrizacion_de_modelos.pdf): Documento en donde se encuentran todos los procesos realizados a los datos y los diferentes modelos estimados.
-* [Reporte de Métricas.pdf](https://github.com/alfarodaniel/Contratacion_360/blob/main/Reporte_metricas.pdf): Documento en donde se encuentran todos los modelos y métodos utilizados estimados con sus respectivas métricas.
-* [Tabla de Requerimientos.pdf](https://github.com/alfarodaniel/Contratacion_360/blob/main/Tabla_de_requerimientos.pdf): Tabla de requerimientos en la que se propone la evaluación de aspectos enfocados al negocio , desempeño y funcional.
+* [Manual_de_usuario.pdf](Tabla_de_requerimientos.pdf): Manual de usuario y de mantenimiento.
+* [Presentacion.pd](Presentacion.pdf)f: Presentación final del prototipo.
+* [Prototipo_fachada.pdf](Prototipo_fachada.pdf): Propuesta inicial el prototipo.
+* [Reporte de selección y parametrización de modelos.pdf](Reporte_de_seleccion_y_parametrizacion_de_modelos.pdf): Documento en donde se encuentran todos los procesos realizados a los datos y los diferentes modelos estimados.
+* [Reporte de Métricas.pdf](Reporte_metricas.pdf): Documento en donde se encuentran todos los modelos y métodos utilizados estimados con sus respectivas métricas.
+* [Tabla de Requerimientos.pdf](Tabla_de_requerimientos.pdf): Tabla de requerimientos en la que se propone la evaluación de aspectos enfocados al negocio , desempeño y funcional.
 
 ### 9.1 Carpeta Code
 
-* [Modelo_Adicion_XGBOOST_Optimizado.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelo_Adicion_XGBOOST_Optimizado.ipynb): Optimización del modelo de adición.
-* [Modelo_Estado_XGBOOST_Optimizado.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelo_Estado_XGBOOST_Optimizado.ipynb): Optimización del modelo de estado.
-* [Modelo_Prorroga_XGBOOST_Optimizado.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelo_Prorroga_XGBOOST_Optimizado.ipynb): Optimización del modelo de prórroga.
-* [Modelos_Adicion_dummi.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Adicion_dummi.ipynb): Validación de diferentes modelos para adición con tratamiento de variables categóricas tipo dummy.
-* [Modelos_Adicion_factorize.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Adicion_factorize.ipynb): Validación de diferentes modelos para adición con tratamiento de variables categóricas tipo factorize.
-* [Modelos_Estado_dummi.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Estado_dummi.ipynb): Validación de diferentes modelos para estado con tratamiento de variables categóricas tipo dummy.
-* [Modelos_Estado_factorize.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Estado_factorize.ipynb): Validación de diferentes modelos para estado con tratamiento de variables categóricas tipo factorize.
-* [Modelos_Prorroga_dummi.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Prorroga_dummi.ipynb): Validación de diferentes modelos para prórroga con tratamiento de variables categóricas tipo dummy.
-* [Modelos_Prorroga_factorize.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Prorroga_factorize.ipynb): Validación de diferentes modelos para prórroga con tratamiento de variables categóricas tipo factorize.
-* [Modelos_Prorroga_y_Adicion.ipynb](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/Modelos_Prorroga_y_Adicion.ipynb): Modelos finales de adición y prórroga llevados a producción.
-* [robot_paco.docx](https://github.com/alfarodaniel/Contratacion_360/blob/main/Code/robot_paco.docx): Robot utilizado para la descarga de datos del portal PACO utilizando el software libre de RPA denominado TagUI.
+* [Modelo_Adicion_XGBOOST_Optimizado.ipynb](Code/Modelo_Adicion_XGBOOST_Optimizado.ipynb): Optimización del modelo de adición.
+* [Modelo_Estado_XGBOOST_Optimizado.ipynb](Code/Modelo_Estado_XGBOOST_Optimizado.ipynb): Optimización del modelo de estado.
+* [Modelo_Prorroga_XGBOOST_Optimizado.ipynb](Code/Modelo_Prorroga_XGBOOST_Optimizado.ipynb): Optimización del modelo de prórroga.
+* [Modelos_Adicion_dummi.ipynb](Code/Modelos_Adicion_dummi.ipynb): Validación de diferentes modelos para adición con tratamiento de variables categóricas tipo dummy.
+* [Modelos_Adicion_factorize.ipynb](Code/Modelos_Adicion_factorize.ipynb): Validación de diferentes modelos para adición con tratamiento de variables categóricas tipo factorize.
+* [Modelos_Estado_dummi.ipynb](Code/Modelos_Estado_dummi.ipynb): Validación de diferentes modelos para estado con tratamiento de variables categóricas tipo dummy.
+* [Modelos_Estado_factorize.ipynb](Code/Modelos_Estado_factorize.ipynb): Validación de diferentes modelos para estado con tratamiento de variables categóricas tipo factorize.
+* [Modelos_Prorroga_dummi.ipynb](Code/Modelos_Prorroga_dummi.ipynb): Validación de diferentes modelos para prórroga con tratamiento de variables categóricas tipo dummy.
+* [Modelos_Prorroga_factorize.ipynb](Code/Modelos_Prorroga_factorize.ipynb): Validación de diferentes modelos para prórroga con tratamiento de variables categóricas tipo factorize.
+* [Modelos_Prorroga_y_Adicion.ipynb](Code/Modelos_Prorroga_y_Adicion.ipynb): Modelos finales de adición y prórroga llevados a producción.
+* [robot_paco.docx](Code/robot_paco.docx): Robot utilizado para la descarga de datos del portal PACO utilizando el software libre de RPA denominado TagUI.
 
 ### 9.2 Carpeta Data
 
-* [CoordenadasDepartamentosRegiones.csv](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/CoordenadasDepartamentosRegiones.csv): Listado sobre los departamentos, latitud, longitud y región.
-* [Grupos.csv](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/Grupos.csv):  Listado de tipos de contrato con imágenes para visualización
-* [Identificacion.csv](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/Identificacion.csv): Listado de contratistas utilizado por el robot de PACO.
-* [PACO.csv](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/PACO.csv): Listado resultante del robot PACO con información de identificación de contratista, disciplinarias, contractuales y fiscales.
-* [PCA_KMEANS_SECOP_I.zip](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/PCA_KMEANS_SECOP_I.zip): archivo que contiene información sobre la clusterización realizada.
-* [Predicciones.csv](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/Predicciones.csv): archivo de predicciones que permite al usuario ingresar opciones y obtener las probabilidades de que un contrato presente adiciones presupuestales o prórrogas.
-* [SECOP_I_part1.csv](https://github.com/alfarodaniel/Contratacion_360/blob/main/Data/SECOP_I_part1.csv): Listado descargado de SECOP I, con información sobre la Contratación Pública en Colombia, que ha sido utilizada en el análisis y desarrollo de los modelos descriptivos y predictivos (parte 1 de 8).
+* [CoordenadasDepartamentosRegiones.csv](Data/CoordenadasDepartamentosRegiones.csv): Listado sobre los departamentos, latitud, longitud y región.
+* [Grupos.csv](Data/Grupos.csv):  Listado de tipos de contrato con imágenes para visualización
+* [Identificacion.csv](Data/Identificacion.csv): Listado de contratistas utilizado por el robot de PACO.
+* [PACO.csv](Data/PACO.csv): Listado resultante del robot PACO con información de identificación de contratista, disciplinarias, contractuales y fiscales.
+* [PCA_KMEANS_SECOP_I.zip](Data/PCA_KMEANS_SECOP_I.zip): archivo que contiene información sobre la clusterización realizada.
+* [Predicciones.csv](Data/Predicciones.csv): archivo de predicciones que permite al usuario ingresar opciones y obtener las probabilidades de que un contrato presente adiciones presupuestales o prórrogas.
+* [SECOP_I_part1.csv](Data/SECOP_I_part1.csv): Listado descargado de SECOP I, con información sobre la Contratación Pública en Colombia, que ha sido utilizada en el análisis y desarrollo de los modelos descriptivos y predictivos (parte 1 de 8).
