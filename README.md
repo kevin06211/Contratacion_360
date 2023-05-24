@@ -25,7 +25,7 @@
   <tr>
    <td>Daniel Andrés Londoño Galvis
    </td>
-   <td><a href="https://www.linkedin.com/in/daniel-andr%C3%A9s-londo%C3%B1o-galvis-14973931/" target="_blank">https://www.linkedin.com/in/daniel-andr%C3%A9s-londo%C3%B1o-galvis-14973931/</a>
+   <td><a href="https://www.linkedin.com/in/daniel-andr%C3%A9s-londo%C3%B1o-galvis-14973931/">https://www.linkedin.com/in/daniel-andr%C3%A9s-londo%C3%B1o-galvis-14973931/</a>
    </td>
   </tr>
   <tr>
@@ -42,7 +42,8 @@
 Aplicativo: [https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9](https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9)
 
 Video presentación: [https://youtu.be/iczRbtpg74s](https://youtu.be/iczRbtpg74s)
-<a href="https://youtu.be/iczRbtpg74s" target="_blank">https://youtu.be/iczRbtpg74s</a>
+[![Video de presentación](https://img.youtube.com/vi/iczRbtpg74s/0.jpg)](https://www.youtube.com/watch?v=iczRbtpg74s)
+
 
 Repositorio: [https://github.com/alfarodaniel/Contratacion_360](https://github.com/alfarodaniel/Contratacion_360)
 
