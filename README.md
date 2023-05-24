@@ -42,8 +42,8 @@
 Aplicativo: [https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9](https://app.powerbi.com/view?r=eyJrIjoiNDhjMWViZmItY2MwZi00YzZmLTg0ZWQtOGM2ZDYxZGU2NzI5IiwidCI6IjQzZjM1MDE5LTk0MzgtNDM4OC1iYWIwLTRlN2M5MWJjZTBjMyJ9)
 
 Video presentación: [https://youtu.be/iczRbtpg74s](https://youtu.be/iczRbtpg74s)
-[![Video de presentación](https://img.youtube.com/vi/iczRbtpg74s/0.jpg)](https://www.youtube.com/watch?v=iczRbtpg74s)
 
+[![Video de presentación](https://img.youtube.com/vi/iczRbtpg74s/0.jpg)](https://www.youtube.com/watch?v=iczRbtpg74s)
 
 Repositorio: [https://github.com/alfarodaniel/Contratacion_360](https://github.com/alfarodaniel/Contratacion_360)
 
