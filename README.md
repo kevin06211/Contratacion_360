@@ -19,7 +19,7 @@
   <tr>
    <td>Daniel Alfaro Rojas
    </td>
-   <td><a href="https://www.linkedin.com/in/daniel-alfaro-rojas-622bb8162/">https://www.linkedin.com/in/daniel-alfaro-rojas-622bb8162/</a>
+   <td><a href="https://www.linkedin.com/in/daniel-alfaro-rojas/">https://www.linkedin.com/in/daniel-alfaro-rojas/</a>
    </td>
   </tr>
   <tr>
