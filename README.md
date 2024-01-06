@@ -1,6 +1,6 @@
 ## CONTRATACIÓN 360
 
-**Tabla: Integrantes Grupo**
+**Tabla: Integrantes Grupo:**
 
 
 <table>
